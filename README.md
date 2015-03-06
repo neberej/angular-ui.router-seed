@@ -14,5 +14,3 @@ This project is a skeleton for a typical [AngularJS](http://angularjs.org/) web 
 ### To Do:
 
 1. Build and Test tasks
-
-2. Test Specs
